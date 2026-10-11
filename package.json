@@ -1,0 +1,14 @@
+{
+  "name": "ziwei-report-generator",
+  "version": "0.1.0",
+  "description": "Render structured Ziwei Doushu chart reports from JSON, powered by the iztro astrology engine.",
+  "type": "commonjs",
+  "main": "generate.js",
+  "scripts": {
+    "build": "node generate.js samples/sample-1.json -o out/sample-1.html"
+  },
+  "dependencies": {
+    "iztro": "^2.6.1"
+  },
+  "license": "MIT"
+}

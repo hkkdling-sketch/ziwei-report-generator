@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Local outreach / business notes (not for public repo)
+outreach-kit.md
+quick-marketplace.md
+ready-to-send.md
